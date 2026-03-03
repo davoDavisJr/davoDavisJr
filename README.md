@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @davoDavisJr
-- 👀 I’m interested in computer scince, mathmatics, sport, and chilling. 
-- 🌱 I’m currently learning web design, and I know a little bit of Python.
+- 👀 I’m interested in computer science, mathamatics, sports, and chilling. 
+- 🌱 I know a fair amount of Python.
 
 <!---
 davoDavisJr/davoDavisJr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
