@@ -63,11 +63,9 @@ I am particularly interested in:
 
 ## Contact
 
-📧 Monash email:  
-`ddav0020@monash.student.edu`
+📧 Monash email: `ddav0020@monash.student.edu`
 
-🔗 LinkedIn:
-`https://www.linkedin.com/in/dovid-davis-07b5b03ab/`
+🔗 LinkedIn: `https://www.linkedin.com/in/dovid-davis-07b5b03ab/`
 
 ---
 
