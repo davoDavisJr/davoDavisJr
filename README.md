@@ -1,7 +1,9 @@
 # Hi, I'm Dovid Davis 👋
 
 🎓 First-year Bachelor of Engineering (Honours) student at Monash University (course ID: ENG3001)
+
 📍 Melbourne, Australia
+
 🧠 Interested in programming, mathematics, AI systems, and analytical problem solving.
 
 ---
@@ -45,6 +47,7 @@ I am particularly interested in:
 ## Current Projects
 
 - 🧰 Programming Project Template
+
   A reusable project template designed for university coursework and small software projects.
 
 ---
