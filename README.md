@@ -67,7 +67,7 @@ I am particularly interested in:
 `ddav0020@monash.student.edu`
 
 🔗 LinkedIn:
-https://www.linkedin.com/in/dovid-davis-07b5b03ab/
+`https://www.linkedin.com/in/dovid-davis-07b5b03ab/`
 
 ---
 
